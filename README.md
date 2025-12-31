@@ -247,7 +247,7 @@ strengths, and weaknesses.
 <h2>Links</h2>
 <ul>
   <li><strong>ERD:</strong> <a href="PUT_ERD_LINK_HERE">PUT_ERD_LINK_HERE</a></li>
-  <li><strong>Postman Documentation:</strong> <a href="[PUT_POSTMAN_DOC_LINK_HERE](https://documenter.getpostman.com/view/51095397/2sBXVbJZNn)">[PUT_POSTMAN_DOC_LINK_HERE](https://documenter.getpostman.com/view/51095397/2sBXVbJZNn)</a></li>
+  <li><strong>Postman Documentation:</strong> <a href="[https://documenter.getpostman.com/view/51095397/2sBXVbJZNn](https://documenter.getpostman.com/view/51095397/2sBXVbJZNn)">[https://documenter.getpostman.com/view/51095397/2sBXVbJZNn](https://documenter.getpostman.com/view/51095397/2sBXVbJZNn)</a></li>
   <li><strong>Figma:</strong> <a href="PUT_FIGMA_LINK_HERE">PUT_FIGMA_LINK_HERE</a></li>
   <li><strong>Domain:</strong> <a href="https://sijal.tech">https://sijal.tech</a></li>
 </ul>
