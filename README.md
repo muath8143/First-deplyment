@@ -4,14 +4,14 @@
 
 <hr />
 
-<h2>نبذة عن المشروع (بالعربي)</h2>
+<h2>نبذة عن المشروع </h2>
 <p>
 <strong>سِجال</strong> منصة تساعد المستخدم على الاستعداد للمقابلات الوظيفية عبر جلسات مقابلة صوتية،
 حيث يتم إنشاء جلسة مقابلة وتوليد أسئلة مخصصة (حسب السيرة الذاتية أو الوصف الوظيفي)،
 ثم يتم حفظ التسجيل والنص (Transcript) وتحليل الإجابات باستخدام الذكاء الاصطناعي لإعطاء تقييم ونقاط قوة/ضعف.
 </p>
 
-<h2>Project Overview (English)</h2>
+<h2>Project Overview </h2>
 <p>
 <strong>Sijal</strong> is an AI-powered interview preparation platform that enables users to run voice-based mock interviews.
 The system creates an interview session, generates tailored questions (from CV and/or job description),
@@ -36,10 +36,12 @@ strengths, and weaknesses.
 <h2>Core Features</h2>
 <ul>
   <li>Create interview sessions and generate questions based on CV and/or job description</li>
-  <li>Retrieve user sessions and session details (authorized access)</li>
-  <li>Receive Vapi webhook end-of-call report (recordingUrl + transcript)</li>
-  <li>Store interview recording and transcript</li>
-  <li>AI analysis based on transcript (final score + strengths + weaknesses)</li>
+  <li>Voice interview simulation (phone call) with session validation</li>
+  <li>Store interview recording and transcript after call ends</li>
+  <li>AI interview analysis (final score + strengths + weaknesses)</li>
+  <li><strong>HR Interview module:</strong> conduct interviews with HR and store HR evaluation</li>
+  <li><strong>AI Improvement Plan:</strong> generate a personalized development plan for the user based on feedback</li>
+  <li>Retrieve user sessions and session details with authorization (ownership checks)</li>
   <li>Health endpoint for deployment monitoring</li>
 </ul>
 
@@ -245,7 +247,7 @@ strengths, and weaknesses.
 <h2>Links</h2>
 <ul>
   <li><strong>ERD:</strong> <a href="PUT_ERD_LINK_HERE">PUT_ERD_LINK_HERE</a></li>
-  <li><strong>Postman Documentation:</strong> <a href="PUT_POSTMAN_DOC_LINK_HERE">PUT_POSTMAN_DOC_LINK_HERE</a></li>
+  <li><strong>Postman Documentation:</strong> <a href="[PUT_POSTMAN_DOC_LINK_HERE](https://documenter.getpostman.com/view/51095397/2sBXVbJZNn)">[PUT_POSTMAN_DOC_LINK_HERE](https://documenter.getpostman.com/view/51095397/2sBXVbJZNn)</a></li>
   <li><strong>Figma:</strong> <a href="PUT_FIGMA_LINK_HERE">PUT_FIGMA_LINK_HERE</a></li>
   <li><strong>Domain:</strong> <a href="https://sijal.tech">https://sijal.tech</a></li>
 </ul>
